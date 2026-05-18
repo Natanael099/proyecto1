@@ -1,0 +1,16 @@
+C:\Users\carlos\source\repos\Proyectofinal\bin\Debug\Proyectofinal.exe.config
+C:\Users\carlos\source\repos\Proyectofinal\bin\Debug\Proyectofinal.exe
+C:\Users\carlos\source\repos\Proyectofinal\bin\Debug\Proyectofinal.pdb
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.csproj.AssemblyReference.cache
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Cuentas.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Menu.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.MenuLogin.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Properties.Resources.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.csproj.GenerateResource.cache
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.exe
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.pdb
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Clientes.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Reportes.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Veiculos.resources
+C:\Users\carlos\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Ventas.resources
